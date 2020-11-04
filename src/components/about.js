@@ -29,14 +29,14 @@ class About extends React.Component {
     {
       id: "first-p-about",
       content:
-        "Piayon Lassanah: 1500 Market Street, Suite 4000W Philadelphia PA 19102"
+        "Piayon Lassanah: P: 215-383-**** Email: piayon87@gmail.com. Address: 1500 Market Street, Suite 4000W Philadelphia, PA 19102"
     },
 
 
     {
       id: "second-p-about",
       content:
-        "Education: University of Pennsylvania, Philadelphia, PA, Penn LPS Coding Bootcamp Certificate, 2020. • An intensive 24-week-long bootcamp dedicated to designing and building web applications. Skills learned: HTML5, CSS3, Javascript, JQuery, Bootstrap, Firebase, Node.js, MySQL, MongoDB, Express, Handlebars, and React."
+        "Education: University of Pennsylvania Philadelphia, PA. Penn LPS Coding Bootcamp Certificate, 2020: An intensive 24-week-long bootcamp dedicated to designing and building web applications. Skills learned: HTML5, CSS3, Javascript, JQuery, Bootstrap, Firebase, Node.js, MySQL, MongoDB, Express, Handlebars, and React."
     },
   ]
 };

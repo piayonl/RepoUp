@@ -1,8 +1,8 @@
 {
-  "name": "portfolio",
+  "name": "Piayon:React Portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shloksomani.github.io/react-portfolio/",
+  "homepage": "",
   "dependencies": {
     "bootstrap": "^4.5.3",
     "gh-pages": "^2.2.0",
